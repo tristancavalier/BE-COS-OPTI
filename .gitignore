@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Fichiers générés par le notebook
+mySolution*.json
+*.gif
